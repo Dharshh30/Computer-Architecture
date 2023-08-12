@@ -45,3 +45,19 @@ print("CYCLE VALUE IS:",counter)
 ins=int(input("Enter the No.of instructions:"))
 performance_measure =ins/counter
 print("performance measure is:",performance_measure)
+OUTPUT:
+ENTER NUMBER-1-2
+ENTER NUMBER-2-5
+5
+enter no. of instructions:4
+performance measure: 0.6666666666666666
+ENTER NUMBER-1-2
+ENTER NUMBER-2-3
+1-ADDITION 2-SUBTRACTION 3-MULTIPLICATION 4-DIVISION
+Enter Your Choice
+1
+Performing Addition...
+5
+CYCLE VALUE IS: 7
+Enter the No.of instructions:2
+performance measure is: 0.2857142857142857
