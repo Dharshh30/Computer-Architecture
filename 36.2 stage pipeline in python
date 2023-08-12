@@ -44,4 +44,19 @@ Performing Addition...
 CYCLE VALUE IS: 5
 Enter the No.of instructions:2
 performance measure is: 0.4
-
+OUTPUT:
+ENTER NUMBER-1-21
+ENTER NUMBER-2-56
+56
+enter no. of instructions:3
+performance measure: 0.5
+ENTER NUMBER-1-4
+ENTER NUMBER-2-3
+1-ADDITION 2-SUBTRACTION 3-MULTIPLICATION 4-DIVISION
+Enter Your Choice
+3
+Performing Multiplication
+12
+CYCLE VALUE IS: 7
+Enter the No.of instructions:2
+performance measure is: 0.2857142857142857
